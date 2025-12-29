@@ -11,7 +11,7 @@ Ele foi construído para mostrar **organização, boas práticas e domínio de t
 - Criação de **APIs REST** com endpoints claros e seguros  
 - Tratamento de exceções estruturado e confiável  
 - Configuração para múltiplos bancos de dados (PostgreSQL e H2)  
-- Pré-configuração para **JWT**, mostrando conhecimento em segurança  
+
 
 > Este projeto demonstra meu comprometimento em escrever código limpo, organizado e funcional – habilidades essenciais para qualquer estágio em desenvolvimento de sistemas.
 
