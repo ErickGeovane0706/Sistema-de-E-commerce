@@ -34,8 +34,7 @@ Ele foi construído para mostrar **organização, boas práticas e domínio de t
 - **Spring Data JPA** – Persistência de dados  
 - **PostgreSQL e H2** – Bancos de dados para produção e testes  
 - **Maven** – Gerenciamento de dependências  
-- **Jackson** – Manipulação de JSON  
-- **JWT** – Configuração de autenticação (prévia)  
+- **Jackson** – Manipulação de JSON    
 
 ---
 
